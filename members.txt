@@ -1,0 +1,11 @@
+Name: Ceren
+Surname: Kara
+Id: 12345678910
+Primary School: A
+Middle School: B
+High School: C
+University: D
+Experience: Company-A
+Experience: Company-B
+Hobby: cooking
+Hobby: to play volleyball
